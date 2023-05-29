@@ -16,4 +16,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 ### Tainara Alves
 
 
-[➡️Clique aqui para visitar a página](portfolio-tainara.vercel.app)
+[➡️Clique aqui para visitar a página](https://portfolio-tainara.vercel.app/)
